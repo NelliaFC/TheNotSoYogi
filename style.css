@@ -327,6 +327,26 @@ color: #8f8f8f
     font-family: Calibri;
     font-size: 20px;
 }
+footer p:nth-child(1) {
+    font-weight: bold;
+    font-size: 30px;
+    color: #191919;
+    line-height: 10px
+
+}
+footer p:nth-child(2) {
+    font-weight: bold;
+    font-size: 16px;
+    color: #7e7d7d;
+    line-height: 10px
+
+
+
+
+
+
+
+}
 
 
 
