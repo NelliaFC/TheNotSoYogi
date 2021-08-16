@@ -315,6 +315,18 @@ color: #8f8f8f
     font-size: 14px;
     font-weight: bold;
 }
+.contact-links ul{
+    margin: 50px 100px;
+    display: flex;
+    font-size: 20px;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.contact-links ul li a{
+    margin: 0 25px;
+    text-decoration: none;
+}
 .footer{
     height: 300px;
     display: flex;
